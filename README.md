@@ -2,7 +2,7 @@
 Halo semuanya 
 Sebelumnya perkenalkan kami dari kelompok **C23-R4113** <br>
 
-### Contact Information
+## Informasi Kontak
 Anggota Tim:
 1. I Kadek Nicko Ananda (F150XA382) dari Universitas Pendidikan Ganesha
 2. Adila Apriliani (F006YB006) dari Universitas Pancasila
@@ -16,19 +16,17 @@ Fitur-fitur yang terdapat di **IndoSehat**
 - Cek Berat Badan Ideal
 - Rekomendasi Otomatis Berdasarkan Hasil Cek Berat Badan
 
-### Sumber Daya Proyek
-#### UI/UX
+## Sumber Daya Proyek
+### UI/UX
 - Figma
 - Colorhunt
 - Flaticon
 - Google Fonts
-
-#### Front-End
+### Front-End
 - HTML
 - CSS -> Bootstrap
 - JavaScript
-
-#### Back-End
+### Back-End
 - Postman
 - XAMPP
 - Node JS
