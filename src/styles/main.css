@@ -1,0 +1,9 @@
+.responsivecard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 5px;
+}

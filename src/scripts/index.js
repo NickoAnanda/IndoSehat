@@ -1,6 +1,7 @@
 import 'regenerator-runtime';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/header.css';
+import '../styles/main.css';
 import '../styles/footer.css';
 import App from './views/app';
 
