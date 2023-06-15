@@ -2,6 +2,7 @@
   "id": "IndoSehat-PWA",
   "start_url": "./index.html",
   "name": "IndoSehat",
+  "short_name": "IndoSehat",
   "description": "IndoSehat merupakan sebuah website yang menyediakan sebuah cara untuk melakukan cek Berat Badan Ideal Kamu dengan diberikan konten tambahan berupa update-update artikel seputar kesehatan.",
   "display": "standalone",
   "background_color": "#D9D9D9",
