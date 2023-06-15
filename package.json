@@ -1,7 +1,7 @@
 {
   "name": "indosehat",
   "version": "1.0.0",
-  "description": "",
+  "description": "IndoSehat merupakan sebuah website yang menyediakan sebuah cara untuk melakukan cek Berat Badan Ideal Kamu dengan diberikan konten tambahan berupa update-update artikel seputar kesehatan.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
