@@ -4,6 +4,7 @@ import '../styles/header.css';
 import '../styles/main.css';
 import '../styles/footer.css';
 import App from './views/app';
+import swRegister from './utils/sw-register';
 
 const app = new App({
   button: document.querySelector('#button'),
@@ -17,4 +18,5 @@ window.addEventListener('hashchange', () => {
 
 window.addEventListener('load', () => {
   app.renderPage();
+  swRegister();
 });
