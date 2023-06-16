@@ -1,6 +1,7 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const WorkboxWebpackPlugin = require('workbox-webpack-plugin');
+const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 const path = require('path');
 
 module.exports = {
@@ -44,5 +45,6 @@ module.exports = {
       swDest: './sw.bundle.js',
       maximumFileSizeToCacheInBytes: 5000000,
     }),
+    new BundleAnalyzerPlugin(),
   ],
 };
