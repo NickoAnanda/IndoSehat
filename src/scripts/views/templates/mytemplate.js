@@ -2,7 +2,7 @@
 // Card Item Artikel
 const createArtikelItemTemplate = (articles) => `
 <div class="card shadow-lg" style="width: 18rem;">
-  <img src="${articles.img}" class="card-img-top" alt="...">
+  <img src="${articles.img}" class="card-img-top" alt="articles" style="height: 200px; width: 100%">
     <div class="card-body">
       <h5 class="card-title">${articles.title}</h5>
       <p class="card-text">${articles.briefDescription}</p>
