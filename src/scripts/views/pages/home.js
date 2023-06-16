@@ -4,8 +4,8 @@ import { createArtikelItemTemplate } from '../templates/mytemplate';
 const Home = {
   async render() {
     return `
-        <div class="shadow-lg">
-          <img src="./images/banner.png" class="img-fluid" alt="banner">
+        <div class="shadow-lg" aria=label="bannerIndoSehat">
+          <img src="./images/banner.png" class="img-fluid" alt="bannerIndoSehat">
         </div>
         <main id="mainContent">
             <section class="about">
