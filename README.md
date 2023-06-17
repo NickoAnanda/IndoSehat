@@ -28,7 +28,6 @@ Fitur-fitur yang terdapat di **IndoSehat**
 - JavaScript
 ### Back-End
 - Postman
-- XAMPP
-- Node JS
-- JavaScript
+- Mockapi.io
+- imgbb.com
 
