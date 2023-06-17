@@ -24,7 +24,7 @@ Fitur-fitur yang terdapat di **IndoSehat**
 - Google Fonts
 ### Front-End
 - HTML
-- CSS -> Bootstrap
+- CSS -> Bootstrap 5
 - JavaScript
 ### Back-End
 - Postman
