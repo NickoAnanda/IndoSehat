@@ -54,5 +54,6 @@ Fitur-fitur yang terdapat di **IndoSehat**
 7. Setelah selesai terinstal jalankan perintah npm run start-dev untuk menjalankan program
 <br> `npm run start-dev`
 #### Catatan
-- Bug yang terjadi teratasi tetapi sedikit error ketika melihat bagian rekomendasi dimunculkan pesan `localhost refused to connect.` tetapi rekomendasi tetap dapat dilihat dengan melakukan go back page dan interaksi di website tetap dapat berjalan dengan baik.
+- Terdapat sedikit error ketika melihat bagian rekomendasi dimunculkan pesan `localhost refused to connect.` tetapi rekomendasi tetap dapat dilihat dengan melakukan go back page dan interaksi di website tetap dapat berjalan dengan baik.
+- setelah dicoba kembali, error `localhost refused to connect.` terkadang terjadi dan juga terkadang tidak dan juga 1 bug sebelumnya kadang terjadi dan juga terkadang tidak.
 
