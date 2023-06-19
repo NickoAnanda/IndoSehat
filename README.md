@@ -31,3 +31,13 @@ Fitur-fitur yang terdapat di **IndoSehat**
 - Mockapi.io
 - imgbb.com
 
+## Cara Instalasi dan Menjalankan Program
+### Langkah-langkah
+1. Unduh code project dengan klik Download ZIP
+2. Extract pada tempat yang akan digunakan
+3. Buka menggunakan visual studio code
+4. Sebelum menjalankan program, install kebutuhan node_modules dengan cara mengetikan perintah pada terminal
+<br> `npm install`
+5. Setelah selesai terinstal jalankan perintah npm run start-dev untuk menjalankan program
+<br> `npm run start-dev`
+
