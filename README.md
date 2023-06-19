@@ -32,7 +32,7 @@ Fitur-fitur yang terdapat di **IndoSehat**
 - imgbb.com
 
 ## Cara Instalasi dan Menjalankan Program
-### Langkah-langkah
+### Tidak dalam mode build production
 1. Unduh code project dengan klik Download ZIP
 2. Extract pada tempat yang akan digunakan
 3. Buka menggunakan visual studio code
@@ -40,4 +40,19 @@ Fitur-fitur yang terdapat di **IndoSehat**
 <br> `npm install`
 5. Setelah selesai terinstal jalankan perintah npm run start-dev untuk menjalankan program
 <br> `npm run start-dev`
+#### Catatan
+- Terdapat 1 bug ketika menjalankan dalam mode ini yaitu terdapat refres page pada wal menggunakan fitur timbang.
+
+### Dalam mode build production
+1. Unduh code project dengan klik Download ZIP
+2. Extract pada tempat yang akan digunakan
+3. Buka menggunakan visual studio code
+4. Sebelum menjalankan program, install kebutuhan node_modules dengan cara mengetikan perintah pada terminal
+<br> `npm install`
+5. Selanjutkan jalankan perintah
+<br> `npm run build`
+7. Setelah selesai terinstal jalankan perintah npm run start-dev untuk menjalankan program
+<br> `npm run start-dev`
+#### Catatan
+- Bug yang terjadi teratasi tetapi sedikit error ketika melihat bagian rekomendasi dimunculkan pesan `localhost refused to connect.` tetapi rekomendasi tetap dapat dilihat dengan melakukan go back page dan interaksi di website tetap dapat berjalan dengan baik.
 
